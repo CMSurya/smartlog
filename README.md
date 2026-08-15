@@ -24,9 +24,9 @@
 
 ## 📸 Screenshots
 
-| Dashboard | AI Q&A | Stats |
+| Sign In | Home Page | AI Assistant Page |
 |-----------|--------|-------|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Ask AI](docs/screenshots/ask.png) | ![Stats](docs/screenshots/stats.png) |
+| ![Sign In](docs/screenshots/sign.png) | ![Ask AI](docs/screenshots/homepage.png) | ![AI Assistant Page](docs/screenshots/AIassistant.png) |
 
 ---
 
@@ -398,11 +398,15 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**Your Name**
+**CM Surya Narayana**
 - GitHub: [@CMSURYA](https://github.com/CMSurya/CMSurya)
 - LinkedIn: [linkedin.com/in/CM Surya Narayana](www.linkedin.com/in/cmsuryanarayana)
 - Email: cmsuryanarayan@gmail.com
 
+**Chippada Manoj Kumar**
+- GitHub: [@Ch Manoj Chippada](https://github.com/ChippadaManojKumar)
+- LinkedIn: [linkedin.com/in/Ch Manoj Kumar](www.linkedin.com/in/manoj-kumar-chippada-868244393)
+- Email: manojchippada3@gmail.com
 ---
 
 _Built to learn. Every feature in this project maps to a real skill used in backend and AI engineering internships._
