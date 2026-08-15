@@ -399,9 +399,9 @@ MIT — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your@email.com
+- GitHub: [@CMSURYA](https://github.com/CMSurya/CMSurya)
+- LinkedIn: [linkedin.com/in/CM Surya Narayana](www.linkedin.com/in/cmsuryanarayana)
+- Email: cmsuryanarayan@gmail.com
 
 ---
 
