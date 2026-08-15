@@ -26,7 +26,7 @@
 
 | Sign In | Home Page | AI Assistant Page |
 |-----------|--------|-------|
-| ![Sign In](docs/screenshots/sign.png) | ![Ask AI](docs/screenshots/homepage.png) | ![AI Assistant Page](docs/screenshots/AIassistant.png) |
+| ![Sign In](docs/screenshots/signin.png) | ![Ask AI](docs/screenshots/homepage.png) | ![AI Assistant Page](docs/screenshots/AIassistant.png) |
 
 ---
 
