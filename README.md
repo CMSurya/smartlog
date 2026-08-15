@@ -15,8 +15,8 @@
 
 ## 🌐 Live Demo
 
-**API Docs (Swagger UI):** `https://your-app.railway.app/docs`
-**Frontend:** `https://your-app.railway.app`
+**API Docs (Swagger UI):** `-`
+**Frontend:** `-`
 
 > _Screenshots below — replace with your own after deployment_
 
