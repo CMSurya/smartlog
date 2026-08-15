@@ -1,0 +1,1 @@
+"""SmartLog FastAPI application package."""
