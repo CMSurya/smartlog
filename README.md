@@ -18,8 +18,6 @@
 **API Docs (Swagger UI):** `-`
 **Frontend:** `-`
 
-> _Screenshots below — replace with your own after deployment_
-
 ---
 
 ## 📸 Screenshots
