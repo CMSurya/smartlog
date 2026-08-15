@@ -396,7 +396,7 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **CM Surya Narayana**
 - GitHub: [@CMSURYA](https://github.com/CMSurya/CMSurya)
